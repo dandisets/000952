@@ -33,6 +33,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2024-04-02T02:19:05.334329+00:00'
+datePublished: '2024-07-31T16:09:47.277109+00:00'
 description: 'Local field potential (LFP) recordings from 12 male Long-Evans rats
   during a temporal discounting task. LFP was recording using an RHD interface board
   (Intantech) and Open Ephys recording software. Data was recorded at 1Khz, with a
@@ -50,6 +51,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000952/versions/draft/assets/
 name: 32 CH local field potential recording of rodents performing a temporal discounting
   task
+publishedBy:
+  endDate: '2024-07-31T16:09:47.277109+00:00'
+  id: urn:uuid:9af3fa97-be31-4a92-b070-a36fbeef2d76
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2024-07-31T16:09:47.277109+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:b8647d45-b60e-4af2-ae3f-b2b1c5fd01f5
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.7
