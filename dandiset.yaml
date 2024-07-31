@@ -12,8 +12,8 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 72870132004
-  numberOfFiles: 213
+  numberOfBytes: 74361063204
+  numberOfFiles: 216
   numberOfSubjects: 73
   schemaKey: AssetsSummary
   species:
@@ -22,8 +22,8 @@ assetsSummary:
     schemaKey: SpeciesType
   variableMeasured: []
 citation: Koloski, Miranda  (2024) 32 CH local field potential recording of rodents
-  performing a temporal discounting task (Version draft) [Data set]. DANDI archive.
-  https://dandiarchive.org/dandiset/000952/draft
+  performing a temporal discounting task (Version 0.240731.1609) [Data set]. DANDI
+  archive. https://doi.org/10.48324/dandi.000952/0.240731.1609
 contributor:
 - affiliation: []
   email: mfrancoeur@health.ucsd.edu
@@ -43,12 +43,13 @@ description: 'Local field potential (LFP) recordings from 12 male Long-Evans rat
   delivered after a fixed short delay (500ms after response) or a large (30uL/3s)
   reward delivered after a fixed delay that varied from session to session (500ms,
   1, 2, 5, 10, 20s). '
-id: DANDI:000952/draft
+doi: 10.48324/dandi.000952/0.240731.1609
+id: DANDI:000952/0.240731.1609
 identifier: DANDI:000952
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000952/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000952/0.240731.1609/assets.yaml
 name: 32 CH local field potential recording of rodents performing a temporal discounting
   task
 publishedBy:
@@ -66,5 +67,5 @@ publishedBy:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.7
-url: https://dandiarchive.org/dandiset/000952/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000952/0.240731.1609
+version: 0.240731.1609
